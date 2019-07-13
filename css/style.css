@@ -1,0 +1,89 @@
+/*div{
+	color: red
+}*/
+img{
+	width: 24%;
+}
+h1{
+color: blue;
+} 
+p{
+	font-size: 23px;
+}
+span{
+	font-size: 23px;
+}
+.solid{
+	color: white;background-color: gray;
+}
+.hex{
+	color:#000000;background-color:#ffdead;
+}
+.border{
+	border:3px solid black; 
+}
+.rgb{
+	color: rgb(0,0,204);background-color:rgb(255,51,153); 
+}
+.rgba{
+	color: rgba(255,255,255,0.4);background-color: rgba(192,192,192);
+}
+.px{
+	font-size: 26px;
+}
+.pt{
+	font-size: 25pt;
+}
+.em{
+	font-size:2em; 
+}
+.rem{
+	font-size:2rem;
+}
+.percentage{
+	font-size:200%; 
+}
+table{
+	text-align: center;
+	padding: 0px;
+	border: 1px solid black;
+}
+th{
+	font-size: 25px;
+	border: 2px;
+}
+td{
+	padding: 40px;
+	border: 2px solid blue;
+}
+.span{
+	color-interpolation-filters: blue;
+}
+.inline{
+	display: inline;
+}
+.bolck{
+	display: block;
+}
+.color{
+	color: blue;
+}
+.inline-block{
+	display: inline-block;
+}
+.padding{
+	padding: 60px;
+	background-color: gray;
+}
+.border{
+	border: 2px solid red;
+}
+.margin{
+	background-color: green;
+	border: 2px solid black;
+	margin: 50px;
+}
+.entities{
+	padding: 4px;
+	border: 2px;
+}
